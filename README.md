@@ -27,6 +27,6 @@
     <img align= "center" src="https://github.com/AjayBhosle17/My_Data/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" alt="ajaybhosle17"  height="214"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaybhosle17&show_icons=true&locale=en&layout=compact&theme=dark" height="183" alt="ajaybhosle17" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaybhosle17&show_icons=true&locale=en&theme=dark" height="183" alt="ajaybhosle17" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaybhosle17&show_icons=true&locale=en&layout=compact&theme=dark" height="197" alt="ajaybhosle17" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaybhosle17&show_icons=true&locale=en&theme=dark" height="197" alt="ajaybhosle17" /></p>
 
