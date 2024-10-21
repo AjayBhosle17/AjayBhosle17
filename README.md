@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/ajaybhosle1718" target="blank"><img src="https://img.shields.io/twitter/follow/ajaybhosle1718?logo=twitter&style=for-the-badge" alt="ajaybhosle1718" /></a> </p>
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently learning *DotNet*
 
-- 💬 Ask me about *Java*
+- 💬 Ask me about *Java ,C#,JS,JQuery*
 
 - 📫 How to reach me *ajaybhosle.comp@gmail.com*
 
