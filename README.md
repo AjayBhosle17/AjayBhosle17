@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *DotNet*
 
-- 💬 Ask me about *Java , C#, JS & JQuery*
+- 💬 Ask me about *Java ,C#,HTML,CSS, Js,JQuery,MVC ,Solid Principles & DotNet*
 
 - 📫 How to reach me *ajaybhosle.comp@gmail.com*
 
