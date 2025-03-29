@@ -70,14 +70,9 @@
 
 ---
 
-### 🚀 Thank You for Visiting! 🎉
-🔹 **Let's Connect & Code Together!** 🚀
-
+### <h3 align="center">🚀 Thank You for Visiting! 🎉</h3>
+<p align="center">
+  🔹 <strong>Let's Connect & Code Together!</strong> 🚀
+</p>
 ---
-
-### **🔥 Enhancements:**  
-✅ **Modernized Layout** with **badges & dark theme**  
-✅ **Animated Wave Emoji** in the title  
-✅ **Visitor Counter** for tracking profile views  
-✅ **Improved Tech Stack Section** with **badges**  
-✅ **Engaging Stats & Streak**  
+ 
